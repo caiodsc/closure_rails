@@ -27,6 +27,9 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 # Easily and efficiently make your ActiveRecord models support hierarchies
 gem 'closure_tree'
+# Ruby interface to the GraphViz graphing tool
+gem 'graphviz'
+gem 'ruby-graphviz'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 

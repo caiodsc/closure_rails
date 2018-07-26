@@ -1,0 +1,7 @@
+digraph G {
+  "1" [label="Caio"]
+  "1" -> "2"
+  "2" [label="Joao"]
+  "2" -> "3"
+  "3" [label="Vanessa"]
+}
